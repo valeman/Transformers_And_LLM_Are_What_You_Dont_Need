@@ -14,4 +14,5 @@ The best repository showing why transformers don’t work in time series forecas
 11. [A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis](https://arxiv.org/abs/2310.11959) by Shuhan Zhong, Sizhe Song, Guanyao Li, Weipeng Zhuo, Yang Liu, S.-H. Gary Chan, The Hong Kong University of Science and Technology
 Hong Kong, 2023) [code](https://github.com/zshhans/MSD-Mixer) 🔥🔥🔥🔥🔥
 15. [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) by (Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Longj, , Tsinghua University, 2023) [code](https://github.com/thuml/TimesNet) 🔥🔥🔥🔥🔥
+16. [MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing](https://arxiv.org/abs/2302.04501) [code](https://github.com/plumprc/MTS-Mixers) 🔥🔥🔥🔥🔥
 
