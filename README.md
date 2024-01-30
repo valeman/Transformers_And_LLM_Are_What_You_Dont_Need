@@ -11,6 +11,7 @@ The best repository showing why transformers don’t work in time series forecas
 8. [Revisiting Long-term Time Series Forecasting: An Investigation on Linear Mapping](https://arxiv.org/abs/2305.10721) by Zhe Li, Shiyi Qi, Yiduo Li, Zenglin Xu (Harbin Institute of Technology, Shenzhen, 2023) [code](https://github.com/plumprc/RTSF)
 9. [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction](https://arxiv.org/abs/2106.09305) by Minhao Liu, Ailing Zeng, Muxi Chen, Zhijian Xu, Qiuxia Lai, Lingna Ma, Qiang Xu (The Chinese University of Hong Kong,2022) [code](https://github.com/cure-lab/SCINet)
 10. [WINNET:TIME SERIES FORECASTING WITH A WINDOW-ENHANCED PERIOD EXTRACTING AND INTERACTING](https://arxiv.org/pdf/2311.00214.pdf) by Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (Sichuan University, China, 2023)
-11. 
-
+11. [A Multi-Scale Decomposition MLP-Mixer for Time Series Analysis](https://arxiv.org/abs/2310.11959) by Shuhan Zhong, Sizhe Song, Guanyao Li, Weipeng Zhuo, Yang Liu, S.-H. Gary Chan, The Hong Kong University of Science and Technology
+Hong Kong, 2023) [code](https://github.com/zshhans/MSD-Mixer) 🔥🔥🔥🔥🔥
+15. [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) by (Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Longj, , Tsinghua University, 2023) [code](https://github.com/thuml/TimesNet) 🔥🔥🔥🔥🔥
 
