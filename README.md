@@ -10,4 +10,7 @@ The best repository showing why transformers don’t work in time series forecas
 7. [Forecasting CPI inflation under economic policy and geo-political uncertainties](https://arxiv.org/abs/2401.00249) by Shovon Sengupta, Tanujit Chakraborty, Sunny Kumar Singh (Fidelity Investments, Sorbonne University, BITS Pilani Hyderabad). (2024) 🔥🔥🔥🔥🔥
 8. [Revisiting Long-term Time Series Forecasting: An Investigation on Linear Mapping](https://arxiv.org/abs/2305.10721) by Zhe Li, Shiyi Qi, Yiduo Li, Zenglin Xu (Harbin Institute of Technology, Shenzhen, 2023) [code](https://github.com/plumprc/RTSF)
 9. [SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction](https://arxiv.org/abs/2106.09305) by Minhao Liu, Ailing Zeng, Muxi Chen, Zhijian Xu, Qiuxia Lai, Lingna Ma, Qiang Xu (The Chinese University of Hong Kong,2022) [code](https://github.com/cure-lab/SCINet)
+10. [WINNET:TIME SERIES FORECASTING WITH A WINDOW-ENHANCED PERIOD EXTRACTING AND INTERACTING](https://arxiv.org/pdf/2311.00214.pdf) by Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (Sichuan University, China, 2023)
+11. 
+
 
