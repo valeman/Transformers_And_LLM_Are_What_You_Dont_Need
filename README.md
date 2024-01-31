@@ -15,4 +15,5 @@ The best repository showing why transformers don’t work in time series forecas
 Hong Kong, 2023) [code](https://github.com/zshhans/MSD-Mixer) 🔥🔥🔥🔥🔥
 15. [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) by (Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Longj, , Tsinghua University, 2023) [code](https://github.com/thuml/TimesNet) 🔥🔥🔥🔥🔥
 16. [MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing](https://arxiv.org/abs/2302.04501) [code](https://github.com/plumprc/MTS-Mixers) 🔥🔥🔥🔥🔥
+17. [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p) by Taesung Kim, Jinhee Kim, Yunwon Tae, Cheonbok Park, Jang-Ho Choi, Jaegul Choo (Kaist AI, Vuno, Naver Corp, ETRI, ICLR 2022) [code](https://github.com/ts-kim/RevIN) [project page](https://seharanul17.github.io/RevIN/) 🔥🔥🔥🔥🔥
 
