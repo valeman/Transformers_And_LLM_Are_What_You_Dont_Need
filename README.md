@@ -16,4 +16,6 @@ Hong Kong, 2023) [code](https://github.com/zshhans/MSD-Mixer) 🔥🔥🔥🔥�
 15. [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/abs/2210.02186) by (Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Longj, , Tsinghua University, 2023) [code](https://github.com/thuml/TimesNet) 🔥🔥🔥🔥🔥
 16. [MTS-Mixers: Multivariate Time Series Forecasting via Factorized Temporal and Channel Mixing](https://arxiv.org/abs/2302.04501) [code](https://github.com/plumprc/MTS-Mixers) 🔥🔥🔥🔥🔥
 17. [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p) by Taesung Kim, Jinhee Kim, Yunwon Tae, Cheonbok Park, Jang-Ho Choi, Jaegul Choo (Kaist AI, Vuno, Naver Corp, ETRI, ICLR 2022) [code](https://github.com/ts-kim/RevIN) [project page](https://seharanul17.github.io/RevIN/) 🔥🔥🔥🔥🔥
+18. [WINNet: Wavelet-inspired Invertible Network for Image Denoising](https://arxiv.org/abs/2311.00214) by 
+Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer Science, Sichuan University, China) [code](https://github.com/jjhuangcs/WINNet) 🔥🔥🔥🔥🔥
 
