@@ -18,4 +18,5 @@ Hong Kong, 2023) [code](https://github.com/zshhans/MSD-Mixer) 🔥🔥🔥🔥�
 17. [Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift](https://openreview.net/forum?id=cGDAkQo1C0p) by Taesung Kim, Jinhee Kim, Yunwon Tae, Cheonbok Park, Jang-Ho Choi, Jaegul Choo (Kaist AI, Vuno, Naver Corp, ETRI, ICLR 2022) [code](https://github.com/ts-kim/RevIN) [project page](https://seharanul17.github.io/RevIN/) 🔥🔥🔥🔥🔥
 18. [WINNet: Wavelet-inspired Invertible Network for Image Denoising](https://arxiv.org/abs/2311.00214) by 
 Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer Science, Sichuan University, China) [code](https://github.com/jjhuangcs/WINNet) 🔥🔥🔥🔥🔥
+19. [Mlinear: Rethink the Linear Model for Time-series Forecasting](https://arxiv.org/abs/2305.04800) Wei Li, Xiangxu Meng, Chuhao Chen and Jianing Chen (Harbin Engineering University) 🔥🔥🔥🔥🔥
 
