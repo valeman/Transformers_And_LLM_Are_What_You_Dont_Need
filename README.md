@@ -20,4 +20,5 @@ Hong Kong, 2023) [code](https://github.com/zshhans/MSD-Mixer) 🔥🔥🔥🔥�
 Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer Science, Sichuan University, China) [code](https://github.com/jjhuangcs/WINNet) 🔥🔥🔥🔥🔥
 19. [Mlinear: Rethink the Linear Model for Time-series Forecasting](https://arxiv.org/abs/2305.04800) Wei Li, Xiangxu Meng, Chuhao Chen and Jianing Chen (Harbin Engineering University, 2023) 🔥🔥🔥🔥🔥
 20. [Minimalist Traffic Prediction: Linear Layer Is All You Need](https://arxiv.org/abs/2308.10276) by Wenying Duan, Hong Rao, Wei Huang, Xiaoxi He (Nanchang, University, Universify of Macau, 2023)
+21. [Frequency-domain MLPs are More Effective Learners in Time Series Forecasting](https://arxiv.org/abs/2311.06184) by Kun Yi, Qi Zhang, Wei Fan, Shoujin Wang, Pengyang Wang, Hui He, Defu Lian, Ning An, Longbing Cao, Zhendong Niu (1Beijing Institute of Technology, 2Tongji University, 3University of Oxford 4University of Technology Sydney, 5University of Macau, 6USTC, 7HeFei University of Technology, 8Macquarie University, 2023) [code](https://github.com/aikunyi/FreTS) 🔥🔥🔥🔥🔥
 
