@@ -1,4 +1,4 @@
-# Tranformers_Are_What_You_Dont_Need
+# Transformers_Are_What_You_Dont_Need
 The best repository showing why transformers don’t work in time series forecasting 
 
 1. [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504) by Ailing Zeng, Muxi Chen, Lei Zhang, Qiang Xu (The Chinese University of Hong Kong, International Digital Economy Academy (IDEA), 2022) [code](https://github.com/cure-lab/LTSF-Linear) 🔥🔥🔥🔥🔥
