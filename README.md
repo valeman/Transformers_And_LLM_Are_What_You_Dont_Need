@@ -27,5 +27,6 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 25. [Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors](https://arxiv.org/abs/2305.18803) by Yong Liu, Chenyu Li, Jianmin Wang, Mingsheng Long (Tsinghua University, 2023) [code](https://github.com/thuml/Time-Series-Library/blob/main/models/Koopa.py) 🔥🔥🔥🔥🔥
 26. [Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective](https://arxiv.org/abs/2402.11463) Jiaxi Hu, Yuehong Hu, Wei Chen, Ming Jin, Shirui Pan, Qingsong Wen, Yuxuan Liang (2024) 🔥🔥🔥🔥🔥
 27. [When and How: Learning Identifiable Latent States for Nonstationary Time Series Forecasting](https://arxiv.org/abs/2402.12767) (2024) 🔥🔥🔥🔥🔥
-28. [Deep Coupling Network For Multivariate Time Series Forecasting](https://arxiv.org/abs/2402.15134) (2024) 
+28. [Deep Coupling Network For Multivariate Time Series Forecasting](https://arxiv.org/abs/2402.15134) (2024)
+29. [Linear Dynamics-embedded Neural Network for Long-Sequence Modeling](https://arxiv.org/abs/2402.15290) by Tongyi Liang and Han-Xiong Li (City University of Hong Kong, 2024).
 
