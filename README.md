@@ -30,4 +30,5 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 28. [Deep Coupling Network For Multivariate Time Series Forecasting](https://arxiv.org/abs/2402.15134) (2024)
 29. [Linear Dynamics-embedded Neural Network for Long-Sequence Modeling](https://arxiv.org/abs/2402.15290) by Tongyi Liang and Han-Xiong Li (City University of Hong Kong, 2024).
 30. [PDETime: Rethinking Long-Term Multivariate Time Series Forecasting from the perspective of partial differential equations](https://arxiv.org/abs/2402.16913) (2024)
+31. [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673) (2024) 🔥🔥🔥🔥🔥
 
