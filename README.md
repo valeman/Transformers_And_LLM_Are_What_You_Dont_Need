@@ -47,5 +47,6 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
 and Rafael Guedes. (2024)🔥🔥🔥🔥🔥
 2. [TimeGPT-1, discussion on Hacker News](https://news.ycombinator.com/item?id=37874891) (2023) 🔥🔥🔥🔥🔥
+3. [TimeGPT : The first Generative Pretrained Transformer for Time-Series Forecasting](https://www.reddit.com/r/MachineLearning/comments/176wsne/r_timegpt_the_first_generative_pretrained/)
 
 
