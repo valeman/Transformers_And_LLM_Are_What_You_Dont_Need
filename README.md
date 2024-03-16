@@ -1,6 +1,17 @@
 # Transformers_Are_What_You_Dont_Need
 The best repository showing why transformers don’t work in time series forecasting 
 
+## [Table of Contents]()
+
+* [PhD and MSc Theses](#theses)
+
+* [Videos](#videos) 
+ 
+* [Papers](#papers)
+
+* [Articles](#articles)
+
+## Papers
 1. [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504) by Ailing Zeng, Muxi Chen, Lei Zhang, Qiang Xu (The Chinese University of Hong Kong, International Digital Economy Academy (IDEA), 2022) [code](https://github.com/cure-lab/LTSF-Linear) 🔥🔥🔥🔥🔥
 2.  [LLMs and foundational models for time series forecasting: They are not (yet) as good as you may hope](https://www.linkedin.com/pulse/llms-foundational-models-time-series-forecasting-yet-good-bergmeir-bprwf) by Christoph Bergmeir (2023) 🔥🔥🔥🔥🔥
 3.   [Transformers Are What You Do Not Need](https://medium.com/@valeman/transformers-are-what-you-do-not-need-cf16a4c13ab7) by Valeriy Manokhin (2023) 🔥🔥🔥🔥🔥
@@ -31,4 +42,9 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 29. [Linear Dynamics-embedded Neural Network for Long-Sequence Modeling](https://arxiv.org/abs/2402.15290) by Tongyi Liang and Han-Xiong Li (City University of Hong Kong, 2024).
 30. [PDETime: Rethinking Long-Term Multivariate Time Series Forecasting from the perspective of partial differential equations](https://arxiv.org/abs/2402.16913) (2024)
 31. [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673) (2024) 🔥🔥🔥🔥🔥
+
+## Articles
+1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
+and Rafael Guedes. (2024)🔥🔥🔥🔥🔥
+
 
