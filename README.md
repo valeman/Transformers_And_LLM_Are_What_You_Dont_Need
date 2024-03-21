@@ -43,7 +43,8 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 30. [PDETime: Rethinking Long-Term Multivariate Time Series Forecasting from the perspective of partial differential equations](https://arxiv.org/abs/2402.16913) (2024)
 31. [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673) (2024) 🔥🔥🔥🔥🔥
 32. [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144) [code](https://github.com/wzhwzhwzh0921/S-D-Mamba) (2024) 🔥🔥🔥🔥🔥
-
+33. [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://arxiv.org/abs/2403.12418) (2024)
+    
 ## Articles
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
 and Rafael Guedes. (2024)🔥🔥🔥🔥🔥
