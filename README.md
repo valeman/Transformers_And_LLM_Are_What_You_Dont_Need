@@ -45,8 +45,8 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 32. [Is Mamba Effective for Time Series Forecasting?](https://arxiv.org/abs/2403.11144) [code](https://github.com/wzhwzhwzh0921/S-D-Mamba) (2024) 🔥🔥🔥🔥🔥
 33. [STG-Mamba: Spatial-Temporal Graph Learning via Selective State Space Model](https://arxiv.org/abs/2403.12418) (2024)
 34. [TimeMachine: A Time Series is Worth 4 Mambas for Long-term Forecasting](https://arxiv.org/abs/2403.09898) [code](https://github.com/Atik-Ahamed/TimeMachine) (2024)🔥🔥🔥🔥🔥
-35. [FITS: Modeling Time Series with 10k Parameters](https://arxiv.org/abs/2307.03756) [code](https://github.com/VEWOXIC/FITS) (2023) 
-
+35. [FITS: Modeling Time Series with 10k Parameters](https://arxiv.org/abs/2307.03756) [code](https://github.com/VEWOXIC/FITS) (2023)
+36. [TSLANet: Rethinking Transformers for Time Series Representation Learning](https://arxiv.org/abs/2404.08472) (2024) 
     
 ## Articles
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
