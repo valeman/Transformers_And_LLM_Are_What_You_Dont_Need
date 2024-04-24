@@ -50,6 +50,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 37. [WFTNet: Exploiting Global and Local Periodicity in Long-term Time Series Forecasting](https://arxiv.org/abs/2309.11319) [code](https://github.com/Hank0626/WFTNet) (2024) 🔥🔥🔥🔥🔥
 38. [SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series](https://arxiv.org/abs/2403.15360) [code](https://github.com/badripatro/Simba) (2024) 🔥🔥🔥🔥🔥
 39. [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197) [code](https://github.com/Secilia-Cxy/SOFTS) (2024) 🔥🔥🔥🔥🔥
+40. [Integrating Mamba and Transformer for Long-Short Range Time Series Forecasting](https://arxiv.org/abs/2404.14757) [code](https://github.com/XiongxiaoXu/Mambaformer-in-Time-Series) 🔥🔥🔥🔥🔥
     
 ## Articles
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
