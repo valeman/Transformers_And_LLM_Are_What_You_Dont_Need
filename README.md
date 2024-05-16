@@ -1,8 +1,6 @@
 # Transformers_Are_What_You_Dont_Need
 The best repository showing why transformers don’t work in time series forecasting 
 
-![Transformers_Are_What_You_Dont_Need](https://github.com/valeman/Transformers_Are_What_You_Dont_Need/blob/main/tranformers_are_what_you_dont_need.jpeg)
-
 ## [Table of Contents]()
 
 * [PhD and MSc Theses](#theses)
