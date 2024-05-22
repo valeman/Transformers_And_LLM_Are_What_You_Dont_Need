@@ -55,6 +55,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 42. [Boosting MLPs with a Coarsening Strategy for Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.03199) (2024) 🔥🔥🔥🔥🔥
 43. [Multi-Scale Dilated Convolution Network for Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.05499) (2024)
 44. [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://openreview.net/forum?id=vpJMJerXHU#) [code](https://github.com/luodhhh/ModernTCN) (ICLR 2024 Spotlight)
+45. [Adaptive Extraction Network for Multivariate Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2405.12038) (2024) 🔥🔥🔥🔥🔥
     
 ## Articles
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
