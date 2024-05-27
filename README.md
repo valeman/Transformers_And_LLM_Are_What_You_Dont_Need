@@ -57,6 +57,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 44. [ModernTCN: A Modern Pure Convolution Structure for General Time Series Analysis](https://openreview.net/forum?id=vpJMJerXHU#) [code](https://github.com/luodhhh/ModernTCN) (ICLR 2024 Spotlight)
 45. [Adaptive Extraction Network for Multivariate Long Sequence Time-Series Forecasting](https://arxiv.org/abs/2405.12038) (2024) 🔥🔥🔥🔥🔥
 46. [Interpretable Multivariate Time Series Forecasting Using Neural Fourier Transform](https://arxiv.org/abs/2405.13812) (2024) 🔥🔥🔥🔥🔥
+47. [PERIODICITY DECOUPLING FRAMEWORK FOR LONG- TERM SERIES FORECASTING](https://openreview.net/pdf?id=dp27P5HBBt) [code](https://github.com/Hank0626/PDF)  (2024) 🔥🔥🔥🔥🔥
     
 ## Articles
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
