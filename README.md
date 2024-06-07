@@ -60,6 +60,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 47. [PERIODICITY DECOUPLING FRAMEWORK FOR LONG- TERM SERIES FORECASTING](https://openreview.net/pdf?id=dp27P5HBBt) [code](https://github.com/Hank0626/PDF)  (2024) 🔥🔥🔥🔥🔥
 48. [Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models](https://arxiv.org/abs/2406.04320) 🔥🔥🔥🔥🔥 (2024)
 49. [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419) [code](https://github.com/ztxtech/Time-Evidence-Fusion-Network) (2024)
+50. [ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2404.05192) [code](https://github.com/yhyhyhyhyhy/atfnet) (2024) 🔥🔥🔥🔥
 
     
 ## Articles
