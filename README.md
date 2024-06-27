@@ -62,7 +62,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 49. [Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](https://arxiv.org/abs/2405.06419) [code](https://github.com/ztxtech/Time-Evidence-Fusion-Network) (2024)
 50. [ATFNet: Adaptive Time-Frequency Ensembled Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2404.05192) [code](https://github.com/yhyhyhyhyhy/atfnet) (2024) 🔥🔥🔥🔥
 51. [C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting](https://arxiv.org/abs/2406.05316) (2024) 🔥🔥🔥🔥
-52. 
+52. [The Power of Minimalism in Long Sequence Time-series Forecasting](https://openreview.net/pdf?id=hF8jnnexSB)
 
     
 ## Articles
