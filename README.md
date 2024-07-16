@@ -64,7 +64,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 51. [C-Mamba: Channel Correlation Enhanced State Space Models for Multivariate Time Series Forecasting](https://arxiv.org/abs/2406.05316) (2024) 🔥🔥🔥🔥
 52. [The Power of Minimalism in Long Sequence Time-series Forecasting](https://openreview.net/pdf?id=hF8jnnexSB)
 53. [WindowMixer: Intra-Window and Inter-Window Modeling for Time Series Forecasting](https://arxiv.org/abs/2406.12921)
-
+54. [xLSTMTime : Long-term Time Series Forecasting With xLSTM](https://arxiv.org/abs/2407.10240) [code](https://github.com/muslehal/xLSTMTime) (2024)
     
 ## Articles
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
