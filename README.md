@@ -68,6 +68,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 55. [Not All Frequencies Are Created Equal:Towards a Dynamic Fusion of Frequencies in Time-Series Forecasting](https://arxiv.org/abs/2407.12415) (2024) 🔥🔥🔥🔥
 56. [FMamba: Mamba based on Fast-attention for Multivariate Time-series Forecasting](https://arxiv.org/abs/2407.14814) (2024)
 57. [Long Input Sequence Network for Long Time Series Forecasting](https://arxiv.org/abs/2407.15869) (2024)
+58. [Time-series Forecasting with Tri-Decomposition Linear-based Modelling and Series-wise Metrics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913290) (2024) 🔥🔥🔥🔥
     
 ## Articles
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
