@@ -1,4 +1,4 @@
-# Transformers_Are_What_You_Dont_Need
+# Transformers_And_LLM_Are_What_You_Dont_Need
 The best repository showing why transformers don’t work in time series forecasting 
 
 ## [Table of Contents]() 
