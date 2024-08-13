@@ -70,6 +70,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 57. [Long Input Sequence Network for Long Time Series Forecasting](https://arxiv.org/abs/2407.15869) (2024)
 58. [Time-series Forecasting with Tri-Decomposition Linear-based Modelling and Series-wise Metrics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4913290) (2024) 🔥🔥🔥🔥
 59. [An Evaluation of Standard Statistical Models and LLMs on Time Series Forecasting](https://arxiv.org/abs/2408.04867) (2024) 🔥🔥🔥🔥
+60. [Macroeconomic Forecasting with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4881094) (2024) 🔥🔥🔥🔥
 
     
 ## Articles
