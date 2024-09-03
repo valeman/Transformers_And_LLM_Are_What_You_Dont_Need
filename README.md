@@ -77,6 +77,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 61. [Language Models Still Struggle to Zero-shot Reason about Time Series](https://arxiv.org/abs/2404.11757) (2024) LLM 🔥🔥🔥🔥
 62. [KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?](https://arxiv.org/abs/2408.11306) (2024)
 63. [Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting](https://arxiv.org/abs/2408.12068) (2024)
+64. [Transformers are Expressive, But Are They Expressive Enough for Regression?](https://arxiv.org/abs/2402.15478) (2024) paper showing transformers cant approximate smooth functions  
 
     
 ## Articles
