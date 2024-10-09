@@ -80,7 +80,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 64. [Transformers are Expressive, But Are They Expressive Enough for Regression?](https://arxiv.org/abs/2402.15478) (2024) paper showing transformers cant approximate smooth functions
 65. [MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)
 66. [MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2410.02070)
-67. [Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis](https://arxiv.org/abs/2410.04703)
+67. [Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis](https://arxiv.org/abs/2410.04703) [code](https://github.com/minkiml/NFM)
 
     
 ## Articles
