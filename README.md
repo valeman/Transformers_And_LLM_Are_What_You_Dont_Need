@@ -81,6 +81,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 65. [MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)
 66. [MMFNet: Multi-Scale Frequency Masking Neural Network for Multivariate Time Series Forecasting](https://arxiv.org/abs/2410.02070)
 67. [Neural Fourier Modelling: A Highly Compact Approach to Time-Series Analysis](https://arxiv.org/abs/2410.04703) [code](https://github.com/minkiml/NFM)
+68. [CMMamba: channel mixing Mamba for time series forecasting](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-01001-9) 
 
     
 ## Articles
