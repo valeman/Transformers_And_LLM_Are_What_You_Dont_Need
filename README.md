@@ -84,6 +84,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 68. [CMMamba: channel mixing Mamba for time series forecasting](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-01001-9)
 69. [EffiCANet: Efficient Time Series Forecasting with Convolutional Attention](https://arxiv.org/abs/2411.04669)
 70. [Curse of Attention: A Kernel-Based Perspective for Why Transformers Fail to Generalize on Time Series Forecasting and Beyond](https://arxiv.org/abs/2412.06061)
+71. [CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns](https://github.com/ACAT-SCUT/CycleNet) [code](https://github.com/ACAT-SCUT/CycleNet)
 
     
 ## Articles
