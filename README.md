@@ -87,6 +87,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 71. [CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns](https://github.com/ACAT-SCUT/CycleNet) [code](https://github.com/ACAT-SCUT/CycleNet)
 72. [Are Language Models Actually Useful for Time Series Forecasting?](https://arxiv.org/abs/2406.16964)
 73. [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197) [code](https://github.com/Secilia-Cxy/SOFTS)
+74. [FTLinear: MLP based on Fourier Transform for Multivariate Time-series Forecasting](https://www.researchsquare.com/article/rs-5654336/v1)
 
 
 
