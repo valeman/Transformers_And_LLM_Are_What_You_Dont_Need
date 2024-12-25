@@ -89,6 +89,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 73. [SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion](https://arxiv.org/abs/2404.14197) [code](https://github.com/Secilia-Cxy/SOFTS)
 74. [FTLinear: MLP based on Fourier Transform for Multivariate Time-series Forecasting](https://www.researchsquare.com/article/rs-5654336/v1)
 75. [WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting](https://arxiv.org/abs/2412.17176) [code](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer)
+76. [Zero Shot Time Series Forecasting Using Kolmogorov Arnold Networks](https://arxiv.org/abs/2412.17853)
 
 
 
