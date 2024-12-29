@@ -11,6 +11,9 @@ The best repository showing why transformers don’t work in time series forecas
 
 * [Articles](#articles)
 
+## Videos
+1. [Problems in the current research on forecasting with transformers, foundational models, etc.](https://www.youtube.com/watch?v=vNul_AjRPFw&t=1084s) by Christof Bergmeier
+
 ## Theses
 1. [Cotton Price Long-Term Time Series Forecasting: A look at Transformers Suitability](https://repository.eafit.edu.co/server/api/core/bitstreams/27739bb8-7237-498f-8fba-ddb4ed6ca4fe/content)
 
