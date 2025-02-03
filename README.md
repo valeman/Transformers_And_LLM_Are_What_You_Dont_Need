@@ -94,6 +94,9 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 74. [FTLinear: MLP based on Fourier Transform for Multivariate Time-series Forecasting](https://www.researchsquare.com/article/rs-5654336/v1)
 75. [WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting](https://arxiv.org/abs/2412.17176) [code](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer)
 76. [Zero Shot Time Series Forecasting Using Kolmogorov Arnold Networks](https://arxiv.org/abs/2412.17853)
+77. [BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2501.19065) (2025) 🔥🔥🔥🔥🔥
+
+
 
 
 
@@ -102,7 +105,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 ## Articles
 1. [TimeGPT vs TiDE: Is Zero-Shot Inference the Future of Forecasting or Just Hype?]([https://arxiv.org/abs/2205.13504](https://towardsdatascience.com/timegpt-vs-tide-is-zero-shot-inference-the-future-of-forecasting-or-just-hype-9063bdbe0b76) by Luís Roque
 and Rafael Guedes. (2024)🔥🔥🔥🔥🔥
-2. [TimeGPT-1, discussion on Hacker News](https://news.ycombinator.com/item?id=37874891) (2023) 🔥🔥🔥🔥🔥
+2. [TimeGPT-1, discussion on Hacker News](https://news.ycombinator.com/item?id=37874891) (2023) 
 3. [TimeGPT : The first Generative Pretrained Transformer for Time-Series Forecasting](https://www.reddit.com/r/MachineLearning/comments/176wsne/r_timegpt_the_first_generative_pretrained/)
 
 
