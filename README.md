@@ -96,7 +96,8 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 76. [Zero Shot Time Series Forecasting Using Kolmogorov Arnold Networks](https://arxiv.org/abs/2412.17853)
 77. [BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting](https://arxiv.org/abs/2501.19065) (2025) 🔥🔥🔥🔥🔥
 78. [A Multi-Task Learning Approach to Linear Multivariate Forecasting](https://arxiv.org/abs/2502.03571) (2025)
-79. [Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications](https://arxiv.org/abs/2502.03395) (2025) 
+79. [Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications](https://arxiv.org/abs/2502.03395) (2025)
+80. [Day-ahead demand response potential prediction in residential buildings with HITSKAN: A fusion of Kolmogorov-Arnold networks and N-HiTS](https://www.sciencedirect.com/science/article/pii/S0378778825001859) (2025)
 
 
 
