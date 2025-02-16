@@ -98,6 +98,14 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 78. [A Multi-Task Learning Approach to Linear Multivariate Forecasting](https://arxiv.org/abs/2502.03571) (2025)
 79. [Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications](https://arxiv.org/abs/2502.03395) (2025)
 80. [Day-ahead demand response potential prediction in residential buildings with HITSKAN: A fusion of Kolmogorov-Arnold networks and N-HiTS](https://www.sciencedirect.com/science/article/pii/S0378778825001859) (2025)
+81. [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118) (2021)
+82. [Two Steps Forward and One Behind: Rethinking Time Series Forecasting with Deep Learning](https://arxiv.org/abs/2304.04553) (2023)
+83. [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/abs/2405.16877?utm_source=chatgpt.com) (2024)
+
+
+
+
+
 
 
 
