@@ -101,6 +101,9 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 81. [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/abs/2101.02118) (2021)
 82. [Two Steps Forward and One Behind: Rethinking Time Series Forecasting with Deep Learning](https://arxiv.org/abs/2304.04553) (2023)
 83. [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/abs/2405.16877?utm_source=chatgpt.com) (2024)
+84. [What Matters in Transformers? Not All Attention is Needed](https://arxiv.org/abs/2406.15786) (2024)
+85. [Time Series Foundational Models: Their Role in Anomaly Detection and Prediction](https://arxiv.org/abs/2412.19286v1) (2024)
+86. 
 
 
 
