@@ -103,7 +103,8 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 83. [Are Self-Attentions Effective for Time Series Forecasting?](https://arxiv.org/abs/2405.16877?utm_source=chatgpt.com) (2024)
 84. [What Matters in Transformers? Not All Attention is Needed](https://arxiv.org/abs/2406.15786) (2024)
 85. [Time Series Foundational Models: Their Role in Anomaly Detection and Prediction](https://arxiv.org/abs/2412.19286v1) (2024)
-86. [Performance of Zero-Shot Time Series Foundation Models on Cloud Data](https://arxiv.org/abs/2502.12944) (2025)
+86. [Performance of Zero-Shot Time Series Foundation Models on Cloud Data](https://arxiv.org/abs/2502.12944) (2025) 🔥🔥🔥🔥🔥
+87. [Position: There are no Champions in Long-Term Time Series Forecasting](https://arxiv.org/abs/2502.12161) (2025) 
 
 
 
