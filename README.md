@@ -105,7 +105,8 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 85. [Time Series Foundational Models: Their Role in Anomaly Detection and Prediction](https://arxiv.org/abs/2412.19286v1) (2024)
 86. [Performance of Zero-Shot Time Series Foundation Models on Cloud Data](https://arxiv.org/abs/2502.12944) (2025) 🔥🔥🔥🔥🔥
 87. [Position: There are no Champions in Long-Term Time Series Forecasting](https://arxiv.org/abs/2502.12161) (2025)
-88. [https://arxiv.org/abs/2502.18410](https://arxiv.org/abs/2502.18834)
+88. [FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2502.18834)
+89. [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435) 
 
 
 
