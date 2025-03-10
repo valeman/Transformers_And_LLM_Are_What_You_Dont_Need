@@ -106,7 +106,9 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 86. [Performance of Zero-Shot Time Series Foundation Models on Cloud Data](https://arxiv.org/abs/2502.12944) (2025) 🔥🔥🔥🔥🔥
 87. [Position: There are no Champions in Long-Term Time Series Forecasting](https://arxiv.org/abs/2502.12161) (2025)
 88. [FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2502.18834)
-89. [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435) 
+89. [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435)
+90. [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://arxiv.org/abs/2403.20150) 🔥🔥🔥🔥🔥
+91. [DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting](https://arxiv.org/abs/2412.10859)
 
 
 
