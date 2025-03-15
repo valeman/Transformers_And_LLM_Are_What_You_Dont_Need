@@ -109,6 +109,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 89. [Cherry-Picking in Time Series Forecasting: How to Select Datasets to Make Your Model Shine](https://arxiv.org/abs/2412.14435)
 90. [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://arxiv.org/abs/2403.20150) 🔥🔥🔥🔥🔥
 91. [DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting](https://arxiv.org/abs/2412.10859)
+92. [CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns](https://arxiv.org/abs/2409.18479) [code](https://github.com/ACAT-SCUT/CycleNet)
 
 
 
