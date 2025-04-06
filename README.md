@@ -110,7 +110,8 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 90. [TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](https://arxiv.org/abs/2403.20150) 🔥🔥🔥🔥🔥
 91. [DUET: Dual Clustering Enhanced Multivariate Time Series Forecasting](https://arxiv.org/abs/2412.10859)
 92. [CycleNet: Enhancing Time Series Forecasting through Modeling Periodic Patterns](https://arxiv.org/abs/2409.18479) [code](https://github.com/ACAT-SCUT/CycleNet)
-93. [Can LLMs Understand Time Series Anomalies?](https://arxiv.org/abs/2410.05440) [code](https://github.com/rose-stl-lab/anomllm) 
+93. [Can LLMs Understand Time Series Anomalies?](https://arxiv.org/abs/2410.05440) [code](https://github.com/rose-stl-lab/anomllm)
+94. [EMForecaster: A Deep Learning Framework for Time Series Forecasting in Wireless Networks with Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2504.00120)
 
 
 
