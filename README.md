@@ -79,7 +79,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 59. [An Evaluation of Standard Statistical Models and LLMs on Time Series Forecasting](https://arxiv.org/abs/2408.04867) (2024) LLM 🔥🔥🔥🔥
 60. [Macroeconomic Forecasting with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4881094) (2024) LLM 🔥🔥🔥🔥
 61. [Language Models Still Struggle to Zero-shot Reason about Time Series](https://arxiv.org/abs/2404.11757) (2024) LLM 🔥🔥🔥🔥
-62. [KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?](https://arxiv.org/abs/2408.11306) (2024)
+62. [KAN4TSF: Are KAN and KAN-based models Effective for Time Series Forecasting?](https://arxiv.org/abs/2408.11306) (2024) [code](https://github.com/2448845600/EasyTSF)
 63. [Simplified Mamba with Disentangled Dependency Encoding for Long-Term Time Series Forecasting](https://arxiv.org/abs/2408.12068) (2024)
 64. [Transformers are Expressive, But Are They Expressive Enough for Regression?](https://arxiv.org/abs/2402.15478) (2024) paper showing transformers cant approximate smooth functions
 65. [MixLinear: Extreme Low Resource Multivariate Time Series Forecasting with 0.1K Parameters](https://arxiv.org/abs/2410.02081)
