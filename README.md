@@ -113,6 +113,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 93. [Can LLMs Understand Time Series Anomalies?](https://arxiv.org/abs/2410.05440) [code](https://github.com/rose-stl-lab/anomllm)
 94. [EMForecaster: A Deep Learning Framework for Time Series Forecasting in Wireless Networks with Distribution-Free Uncertainty Quantification](https://arxiv.org/abs/2504.00120)
 95. [Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting](https://arxiv.org/abs/2504.00118) [code](https://github.com/Tims2D/Times2D)
+96. [FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.04158) 
 
 
 
