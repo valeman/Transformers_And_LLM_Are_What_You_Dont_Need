@@ -115,6 +115,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 95. [Times2D: Multi-Period Decomposition and Derivative Mapping for General Time Series Forecasting](https://arxiv.org/abs/2504.00118) [code](https://github.com/Tims2D/Times2D)
 96. [FilterTS: Comprehensive Frequency Filtering for Multivariate Time Series Forecasting](https://arxiv.org/abs/2505.04158)
 97. [OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain](https://arxiv.org/abs/2505.08550)
+98. [Does Scaling Law Apply in Time Series Forecasting?](https://arxiv.org/abs/2505.10172) 
 
 
 
