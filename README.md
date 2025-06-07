@@ -117,6 +117,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 97. [OLinear: A Linear Model for Time Series Forecasting in Orthogonally Transformed Domain](https://arxiv.org/abs/2505.08550)
 98. [Does Scaling Law Apply in Time Series Forecasting?](https://arxiv.org/abs/2505.10172)
 99. [TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](https://arxiv.org/abs/2505.23719) [code](https://github.com/NX-AI/tirex) [article](https://huggingface.co/NX-AI/TiRex) [podcast](https://open.spotify.com/episode/5PmGnhjPf5JMI1SdVqwOu4) 🔥🔥🔥🔥🔥
+100. [FreDF: Learning to Forecast in the Frequency Domain](https://arxiv.org/abs/2402.02399) [code](https://github.com/Master-PLC/FreDF) 
 
 
 
