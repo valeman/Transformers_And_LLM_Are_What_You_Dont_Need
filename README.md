@@ -1,6 +1,10 @@
 # Transformers_And_LLM_Are_What_You_Dont_Need
 The best repository showing why transformers don’t work in time series forecasting 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=valeman/Transformers_And_LLM_Are_What_You_Dont_Need&type=Date)](https://www.star-history.com/#valeman/Transformers_And_LLM_Are_What_You_Dont_Need&Date)
+
 <a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
