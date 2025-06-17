@@ -1,6 +1,10 @@
 # Transformers_And_LLM_Are_What_You_Dont_Need
 The best repository showing why transformers don’t work in time series forecasting 
 
+<a href="https://www.buymeacoffee.com/valeman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
+
 ## [Table of Contents]() 
 
 * [PhD and MSc Theses](#theses)
