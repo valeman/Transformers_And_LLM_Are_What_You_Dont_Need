@@ -1,7 +1,9 @@
 # Transformers_And_LLM_Are_What_You_Dont_Need
-The best repository showing why transformers don’t work in time series forecasting 
+By far the best and only repository showing why transformers don’t work in time series forecasting 
 
 ## Star History
+[GitHub Repo stars](https://img.shields.io/github/stars/valeman/Transformers_And_LLM_Are_What_You_Dont_Need?style=social)
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=valeman/Transformers_And_LLM_Are_What_You_Dont_Need&type=Date)](https://www.star-history.com/#valeman/Transformers_And_LLM_Are_What_You_Dont_Need&Date)
 
