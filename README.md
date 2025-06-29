@@ -129,6 +129,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 99. [TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](https://arxiv.org/abs/2505.23719) [code](https://github.com/NX-AI/tirex) [article](https://huggingface.co/NX-AI/TiRex) [podcast](https://open.spotify.com/episode/5PmGnhjPf5JMI1SdVqwOu4) 🔥🔥🔥🔥🔥
 100. [FreDF: Learning to Forecast in the Frequency Domain](https://arxiv.org/abs/2402.02399) [code](https://github.com/Master-PLC/FreDF)
 101. [KARMA: A Multilevel Decomposition Hybrid Mamba Framework for Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2506.08939) [code](https://github.com/yedadasd/KARMA)
+102. [MS-TVNet:A Long-Term Time Series Prediction Method Based on Multi-Scale Dynamic Convolution](https://arxiv.org/abs/2506.17253)
 
 
 
