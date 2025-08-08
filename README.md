@@ -132,6 +132,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 102. [MS-TVNet:A Long-Term Time Series Prediction Method Based on Multi-Scale Dynamic Convolution](https://arxiv.org/abs/2506.17253)
 103. [Variational Mode Decomposition and Linear Embeddings are What You Need For Time-Series Forecasting](https://arxiv.org/abs/2408.16122) [code](https://github.com/Espalemit/VMD-With-LTSF-Linear) 🔥🔥🔥🔥🔥
 104. [TimeSieve: Extracting Temporal Dynamics through Information Bottlenecks](https://arxiv.org/abs/2406.05036) [code](https://github.com/xll0328/TimeSieve)
+105. [VisionTS++: Cross-Modal Time Series Foundation Model with Continual Pre-trained Visual Backbones](https://arxiv.org/abs/2508.04379) [code](https://github.com/HALF111/VisionTSpp)
 
 
 
