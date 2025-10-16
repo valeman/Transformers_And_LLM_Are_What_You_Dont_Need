@@ -136,7 +136,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 106. [VISIONTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters](https://arxiv.org/abs/2408.17253) [code](https://github.com/Keytoyze/VisionTS) VisionTS 🔥🔥🔥🔥🔥
 107. [Wavelet Mixture of Experts for Time Series Forecasting](https://arxiv.org/abs/2508.08825)
 108. [TFKAN: Time-Frequency KAN for Long-Term Time Series Forecasting](https://arxiv.org/abs/2506.12696)
-109. [Why Do Transformers Fail to Forecast Time Series In-Context?](https://arxiv.org/abs/2510.09776) 🔥🔥🔥🔥🔥
+109. [Why Do Transformers Fail to Forecast Time Series In-Context?](https://arxiv.org/abs/2510.09776) 🔥🔥🔥🔥🔥 [code](https://github.com/MasterZhou1/ICL-Time-Series)
 
 
 
