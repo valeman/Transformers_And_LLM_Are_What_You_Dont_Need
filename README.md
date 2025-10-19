@@ -138,6 +138,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 108. [TFKAN: Time-Frequency KAN for Long-Term Time Series Forecasting](https://arxiv.org/abs/2506.12696)
 109. [Why Do Transformers Fail to Forecast Time Series In-Context?](https://arxiv.org/abs/2510.09776) 🔥🔥🔥🔥🔥 [code](https://github.com/MasterZhou1/ICL-Time-Series)
 110. [In-Context Learning of Linear Dynamical Systems with Transformers: Error Bounds and Depth-Separation](https://arxiv.org/abs/2502.08136)
+111. [Time Series Foundation Models: Benchmarking Challenges and Requirements](https://arxiv.org/abs/2510.13654) 🔥🔥🔥🔥🔥
 
 
 
