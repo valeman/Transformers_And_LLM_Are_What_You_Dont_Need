@@ -141,6 +141,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 111. [Time Series Foundation Models: Benchmarking Challenges and Requirements](https://arxiv.org/abs/2510.13654) 🔥🔥🔥🔥🔥
 112. [DoFlow: Causal Generative Flows for Interventional and Counterfactual Time-Series Prediction](https://arxiv.org/abs/2511.02137) 🔥🔥🔥🔥🔥
 113. [Hydra: Dual Exponentiated Memory for Multivariate Time Series Analysis](https://arxiv.org/abs/2511.00989) 🔥🔥🔥🔥🔥
+114. [Mixture-of-KAN for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3746252.3760836) 🔥🔥🔥🔥🔥
 
 
 
