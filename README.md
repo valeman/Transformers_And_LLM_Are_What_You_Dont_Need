@@ -143,6 +143,7 @@ Wenjie Ou, Dongyue Guo, Zheng Zhang, Zhishuo Zhao, Yi Lin (College of Computer S
 113. [Hydra: Dual Exponentiated Memory for Multivariate Time Series Analysis](https://arxiv.org/abs/2511.00989) 🔥🔥🔥🔥🔥
 114. [Mixture-of-KAN for Multivariate Time Series Forecasting](https://dl.acm.org/doi/abs/10.1145/3746252.3760836) 🔥🔥🔥🔥🔥
 115. [A Realistic Evaluation of Cross-Frequency Transfer Learning and Foundation Forecasting Models](https://arxiv.org/abs/2509.19465) paper showing foundational models systematically underpeform ARIMA and simple stats ensemble 🔥🔥🔥🔥🔥
+116. [XLinear: A Lightweight and Accurate MLP-Based Model for Long-Term Time Series Forecasting with Exogenous Inputs](https://arxiv.org/abs/2601.09237) 
 
 
 
